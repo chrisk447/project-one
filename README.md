@@ -50,11 +50,11 @@ We will be looking for the following things:
 For all projects, students will be evaluated on a simple 3 point scale (0, 1, or 2). Instructors will use this rubric when scoring student performance on each of the core project **requirements:** 
 
    
-   Score | Expectations
-    ----- | ------------
-    **0** | _Does not meet expectations. Try again._
-    **1** | _Meets expectations. Good job._
-    **2** | _Surpasses expectations. Brilliant!_
+Score | Expectations
+----- | ------------
+**0** | _Does not meet expectations. Try again._
+**1** | _Meets expectations. Good job._
+**2** | _Surpasses expectations. Brilliant!_
 
 
 
