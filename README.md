@@ -58,4 +58,4 @@ Score | Expectations
 
 
 
-[For more information on how we grade our DSI projects, see our project grading walkthrough.](https://git.generalassemb.ly/dsi-projects/readme/blob/master/README.md)
+[For more information on how we grade our DSI projects, see our project grading walkthrough.](./grading.md)
